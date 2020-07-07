@@ -1,2 +1,2 @@
 # TinDog
-Created this website as a part of an udemy course
+Created this website as a part of my udemy course
