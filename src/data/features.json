@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "FaCheckCircle",
+    "title": "Easy to use.",
+    "description": "So easy to use, even your dog could do it."
+  },
+  {
+    "id": 2,
+    "icon": "FaBullseye",
+    "title": "Elite Clientele",
+    "description": "We have all the dogs, the greatest dogs."
+  },
+  {
+    "id": 3,
+    "icon": "FaHeart",
+    "title": "Guaranteed to work.",
+    "description": "Find the love of your dog's life or your money back."
+  }
+]

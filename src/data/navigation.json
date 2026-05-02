@@ -1,0 +1,13 @@
+{
+  "navLinks": [
+    { "id": 1, "label": "Contact", "href": "#footer" },
+    { "id": 2, "label": "Pricing", "href": "#pricing" },
+    { "id": 3, "label": "Download", "href": "#cta" }
+  ],
+  "socialLinks": [
+    { "id": 1, "icon": "FaTwitter", "url": "https://twitter.com", "label": "Twitter" },
+    { "id": 2, "icon": "FaFacebookF", "url": "https://facebook.com", "label": "Facebook" },
+    { "id": 3, "icon": "FaInstagram", "url": "https://instagram.com", "label": "Instagram" },
+    { "id": 4, "icon": "FaEnvelope", "url": "mailto:contact@tindog.com", "label": "Email" }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Chihuahua",
+    "price": "Free",
+    "features": ["5 Matches Per Day", "10 Messages Per Day", "Unlimited App Usage"],
+    "highlighted": false
+  },
+  {
+    "id": 2,
+    "name": "Labrador",
+    "price": "$49 / mo",
+    "features": ["Unlimited Matches", "Unlimited Messages", "Unlimited App Usage"],
+    "highlighted": true
+  },
+  {
+    "id": 3,
+    "name": "Mastiff",
+    "price": "$99 / mo",
+    "features": ["Priority Listing", "Unlimited Matches", "Unlimited Messages", "Unlimited App Usage"],
+    "highlighted": true
+  }
+]
