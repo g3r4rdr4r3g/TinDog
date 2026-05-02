@@ -1,0 +1,6 @@
+[
+  { "id": 1, "src": "/techcrunch.png", "alt": "TechCrunch logo" },
+  { "id": 2, "src": "/tnw.png", "alt": "The Next Web logo" },
+  { "id": 3, "src": "/bizinsider.png", "alt": "Business Insider logo" },
+  { "id": 4, "src": "/mashable.png", "alt": "Mashable logo" }
+]

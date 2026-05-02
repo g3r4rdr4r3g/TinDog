@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "quote": "I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.",
+    "image": "/dog-img.jpg",
+    "imageAlt": "dog-profile",
+    "name": "Pebbles",
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "quote": "My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.",
+    "image": "/lady-img.jpg",
+    "imageAlt": "lady-profile",
+    "name": "Beverly",
+    "location": "Illinois"
+  }
+]
